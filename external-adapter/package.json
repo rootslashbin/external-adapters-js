@@ -12,11 +12,15 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/logging-winston": "^3.0.6",
+    "@google-cloud/logging-winston": "^4.0.1",
     "axios": "^0.19.2",
-    "winston": "^3.2.1",
     "chai": "^4.2.0",
-    "uuid": "^8.3.0"
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "sinon": "^9.0.3",
+    "uuid": "^8.3.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "express": "^4.17.1"
